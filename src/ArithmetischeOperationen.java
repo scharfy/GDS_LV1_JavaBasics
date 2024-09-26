@@ -4,7 +4,6 @@ public class ArithmetischeOperationen {
         int b = 20;
         int c = 25;
         int d = 25;
-
         System.out.println("a + b = " + (a + b) );
         System.out.println("a - b = " + (a - b) );
         System.out.println("a * b = " + (a * b) );
@@ -15,6 +14,6 @@ public class ArithmetischeOperationen {
         System.out.println("b--   = " +  (a--) );
         System.out.println("d++   = " +  (d++) );
         System.out.println("++d   = " +  (++d) );
-        // Test
+        // Test j
     }
 }
